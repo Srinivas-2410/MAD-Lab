@@ -33,7 +33,7 @@ This is a simple calculator application developed for Android devices. The app p
 4. View the result displayed on the screen
 
 ## Screenshots
-(Screenshots would be added here)
+[app_screen](MAD-Lab/WhatsApp Image 2025-04-03 at 20.10.34_2b915aaf.jpg)
 
 ## Requirements
 - Android Studio Arctic Fox or later
